@@ -1,0 +1,24 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "node.js KPI labs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "./node_modules/.bin/eslint index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuvichkamaksim/node.js.git"
+  },
+  "author": "Maksim Kuvichka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuvichkamaksim/node.js/issues"
+  },
+  "homepage": "https://github.com/kuvichkamaksim/node.js#readme",
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}
